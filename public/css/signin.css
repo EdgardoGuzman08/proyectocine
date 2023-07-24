@@ -1,0 +1,32 @@
+.Box25 {
+    position: relative;
+    width: 50%;
+    height: 70%;
+    color: #181818;
+    background-image: radial-gradient(circle at 81.08% 12.96%, #ff58a8 0, #ff4cb2 10%, #ff42bd 20%, #fd38c8 30%, #e832d2 40%, #cf2fdc 50%, #b031e6 60%, #8a38ef 70%, #5241f8 80%, #0049ff 90%, #0050ff 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 3% auto;
+    transition: all 800ms;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+
+.Formulario2 {
+    width: 100%;
+    height: 80%;
+    /* background-color: red; */
+}
+
+.Form2 {
+    width: 80%;
+    height: auto;
+    padding: 2%;
+    margin-left: 15%;
+    /* background-color: #3496db; */
+}
